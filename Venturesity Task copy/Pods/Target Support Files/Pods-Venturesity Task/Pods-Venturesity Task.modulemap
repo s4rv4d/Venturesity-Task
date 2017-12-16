@@ -1,0 +1,6 @@
+framework module Pods_Venturesity_Task {
+  umbrella header "Pods-Venturesity Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
